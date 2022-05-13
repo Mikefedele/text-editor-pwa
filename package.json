@@ -18,7 +18,8 @@
         "express": "^4.17.1"
     },
     "devDependencies": {
-        "nodemon": "^2.0.4",
-        "concurrently": "^5.2.0"
+        "concurrently": "^5.2.0",
+        "mini-css-extract-plugin": "^2.6.0",
+        "nodemon": "^2.0.4"
     }
 }
